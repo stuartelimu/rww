@@ -2,6 +2,19 @@
   {
     "name": "Kampala Muyenga Breeze",
     "venue": "Hotel International",
+    "time": "6PM - 7PM",
+    "zone": ""
+  },
+  {
+    "name": "Rotaract Club of Makindye West",
+    "venue": "Acactus Hotel, Lwafu",
+    "time": "6PM - 7PM",
+    "zone": ""
+  },
+  {
+    "name": "Rotaract Club of Entebbe Airport",
+    "venue": "Flight Motel",
+    "time": "",
     "zone": ""
   }
 ]
